@@ -1,6 +1,7 @@
 # flutter_insta_clone
 
-A new Flutter project.
+BottomNavigationBar, SingleChildScrollView, GridView 사용
+
 
 ## Getting Started
 
